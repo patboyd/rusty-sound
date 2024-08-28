@@ -1,0 +1,13 @@
+[package]
+name = "pat"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "pat"
+path = "main.rs"
+
+[dependencies]
+console = "0.15.8"
+rand = "0.8.5"
+rodio = "0.19.0"
