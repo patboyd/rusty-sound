@@ -11,4 +11,4 @@ Experiments in rust.
 
 Managed with choco for simplicity.
 
-`choso install rust`
+`choco install rust`
